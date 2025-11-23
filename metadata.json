@@ -1,0 +1,7 @@
+{
+  "name": "Clínica MascoVet AI",
+  "description": "Agente de voz veterinario inteligente para Clínica MascoVet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
